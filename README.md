@@ -11,3 +11,4 @@ npm install -D tailwindcss@3
 ```
 
 frontend: started
+backend: started
